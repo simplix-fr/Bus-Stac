@@ -1,4 +1,4 @@
-bus-stac
+Bus-Stac
 ========
 
 L’application mobile, non officielle du réseau de bus de la ville de Chambéry : Bus-Stac.
